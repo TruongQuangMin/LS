@@ -1,5 +1,8 @@
 LS:
 9eee3ef2-31aa-40b7-a0bf-d3d4ef2a2171
+HAN: 4da94e23-52fb-4ca2-8b79-1edff1ecbbf0
+
+
 
 Link tải SmartIR:
 https://smartir2.vnpt.vn/smartir-es
